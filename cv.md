@@ -20,6 +20,7 @@ I want to become a professional front-end developer because I like doing it
 * JavaScript
 
 ## Code examples
+
 ```
 var square = function(number) { return number * number; };
 var x = square(4);
